@@ -1,0 +1,2 @@
+mysql-connector
+MySQL-connector-python
